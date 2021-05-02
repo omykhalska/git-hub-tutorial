@@ -1,5 +1,11 @@
 body {
-  background-color: darkorchid;
+  background: rgb(38, 154, 203);
+  background: linear-gradient(
+    287deg,
+    rgba(38, 154, 203, 1) 0%,
+    rgba(74, 167, 208, 0.7931547619047619) 47%,
+    rgba(175, 226, 245, 1) 100%
+  );
   color: white;
 }
 
